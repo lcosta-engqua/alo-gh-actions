@@ -1,2 +1,2 @@
 # alo-gh-actions
-### Repositório para teste devolps (PUC-MG) iniciando com GitHub Actions.
+### Repositório para teste devops (PUC-MG) iniciando com GitHub Actions.
