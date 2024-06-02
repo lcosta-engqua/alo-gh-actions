@@ -10,5 +10,5 @@ jobs:
       -name: Imprime OLA
        run: echo "OLA"
       -name: Imprime TCHAU
-       run echo "TCHAU"
+       run: echo "TCHAU"
       
