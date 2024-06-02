@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
       -name: Imprime OLA
-       run: echo "OLA"
+			run: echo "OLA"
       -name: Imprime TCHAU
-       run: echo "TCHAU"
+      run: echo "TCHAU"
       
